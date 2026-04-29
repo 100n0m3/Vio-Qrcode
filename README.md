@@ -1,3 +1,6 @@
+vio.api.br
+
+
 # VIO API
 
 API e biblioteca para leitura e validação de QR Codes comuns e QR Codes VIO/SERPRO de documentos oficiais brasileiros.
